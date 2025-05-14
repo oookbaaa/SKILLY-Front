@@ -122,10 +122,8 @@ This project is licensed under the [MIT License](LICENSE).
 
 ## 🎓 Acknowledgments
 
-- **Esprit School of Engineering** — for academic support and course integration  
 - The open-source community — for tools like React, Tailwind, and shadcn  
 - All contributors who have helped shape the vision of this project  
 
 ---
 
-> 💡 *This project was created for educational purposes as part of the Full-Stack Development course at Esprit School of Engineering.*
